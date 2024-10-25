@@ -27,7 +27,7 @@ export const CHAT_SETTING_LIMITS: Record<LLMID, ChatSettingLimits> = {
     MAX_TOKEN_OUTPUT_LENGTH: 4096,
     MAX_CONTEXT_LENGTH: 200000
   },
-  "claude-3-sonnet-20240229": {
+  "claude-3-5-sonnet-latest": {
     MIN_TEMPERATURE: 0.0,
     MAX_TEMPERATURE: 1.0,
     MAX_TOKEN_OUTPUT_LENGTH: 4096,
