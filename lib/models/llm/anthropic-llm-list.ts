@@ -58,7 +58,7 @@ const CLAUDE_3_SONNET: LLM = {
   modelId: "claude-3-5-sonnet-latest",
   modelName: "Claude 3 Sonnet",
   provider: "anthropic",
-  hostedId: "claude-3-sonnet-20240229",
+  hostedId: "claude-3-5-sonnet-latest",
   platformLink: ANTHROPIC_PLATFORM_LINK,
   imageInput: true,
   pricing: {
